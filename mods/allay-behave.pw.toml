@@ -1,13 +1,13 @@
 name = "Allay, behave !"
-filename = "allay-behave-1.5.0+1.21.jar"
+filename = "allay-behave-1.3.3+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oA1Mq0dU/versions/fchrvGks/allay-behave-1.5.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/oA1Mq0dU/versions/AsFEYhpu/allay-behave-1.3.3%2B1.21.jar"
 hash-format = "sha512"
-hash = "6c94b5c8090498349a53d44b3b6d4dd691d7040ac6e53c3ed12bec434ee6854460b30c445fb97523dfba21da6bffa58e754fded023c52f2ca6c81998e711a484"
+hash = "6254fe10e6bc649368c786e274ed2975d82769c7bcdc53aecd4880c23d95defe77f900f34bb1b0a43f20bd7ddecdbb4d52ba29acfe5438a18fe6e7494957e221"
 
 [update]
 [update.modrinth]
 mod-id = "oA1Mq0dU"
-version = "fchrvGks"
+version = "AsFEYhpu"

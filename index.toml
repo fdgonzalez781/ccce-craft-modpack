@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/allay-behave.pw.toml"
-hash = "08683f01b2e21c1080f5739bf837e5c85f92434be03396181d5c961976a83916"
+hash = "2a5dd47c645d2539d7722ac7ef572eeeb1b8b290e3a190e099212b85a0692f58"
 metafile = true
 
 [[files]]
