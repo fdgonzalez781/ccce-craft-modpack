@@ -11,12 +11,14 @@ hash = "af57e1714dc6207107cb91bac93599e3a7b88cfbcce6763b398692c3fdb20c6d"
 metafile = true
 
 [[files]]
-file = "mods/aether-1.21.1-1.5.1-neoforge.jar"
-hash = "7c315f314d1868bf767243fae5bc0ca7316edeb7b30dfe724096b2f7dd8d1169"
+file = "mods/aether.pw.toml"
+hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
+metafile = true
 
 [[files]]
-file = "mods/allay-behave-1.3.3+1.21.jar"
-hash = "cfddc98ce1cfa1af07adec6b9c8f6b395b271567eef1ee6a378f96cd3e79817f"
+file = "mods/allay-behave.pw.toml"
+hash = "08683f01b2e21c1080f5739bf837e5c85f92434be03396181d5c961976a83916"
+metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
@@ -54,12 +56,13 @@ hash = "c8e5a828790c21fe78de966efc78c2790843780c62436108fc50a109b087b247"
 metafile = true
 
 [[files]]
-file = "mods/connector-2.0.0-beta.5+1.21.1-full.jar"
-hash = "e2d7440117ec3b09686f4ca910dc3338153215eeb8214574553c5744d284b3d5"
-
-[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "179ec97bb6d278f2012c725fdfab2c5b00adb529e4f720587ce6c3409aaa572f"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
 metafile = true
 
 [[files]]
@@ -118,12 +121,8 @@ hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api-0.107.0+2.0.22+1.21.1.jar"
-hash = "ca6f43c7e6fbf8ccab623fb7b28b0ab2287847e13edac311568884e213fcd14d"
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "91bd23dd592b8587d094b5953eba29ec6529c1828bd3c85cf0ef6786f1be9e3b"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]

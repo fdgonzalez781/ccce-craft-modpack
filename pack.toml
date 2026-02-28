@@ -1,12 +1,12 @@
 name = "CCCE Modded"
 author = "verdantfuture"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "537e02192d0b4f590aabef1c6038360d6d491107a3077a379b48b7a02b4f9965"
+hash = "ea411418a60b0d32a3c43fd1a2240b4e4dcc3613ebe9ad72fd63b4c883b596bd"
 
 [versions]
 minecraft = "1.21.1"
