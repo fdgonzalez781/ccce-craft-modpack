@@ -1,1 +1,1 @@
-"# CCCE Craft Modpack" 
+# CCCE Craft Modpack
